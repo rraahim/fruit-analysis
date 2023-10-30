@@ -13,7 +13,7 @@ The dataset used for this project is the [Fruit-Images-Dataset](https://storage.
 
 ## Trained Model Weights
 
-The trained model weights can be found [here](https://drive.google.com/drive/folders/1mMUBrGo9Ng1qCs8606zNDF6SQ8XujmKb?usp=sharing)
+The trained model weights can be found [here](https://drive.google.com/file/d/17bdhLZGnD2rSvpfdb8IfDbE4_tn6QK_R/view?usp=sharing), [3k epochs](https://drive.google.com/file/d/17bdhLZGnD2rSvpfdb8IfDbE4_tn6QK_R/view?usp=sharing)
 
 ## Results
 
